@@ -1,0 +1,14 @@
+C:\Study\HK3Nam2\C_Sharp\LabFinal\MyQuizApp\bin\Debug\net10.0\MyQuizApp.exe
+C:\Study\HK3Nam2\C_Sharp\LabFinal\MyQuizApp\bin\Debug\net10.0\MyQuizApp.deps.json
+C:\Study\HK3Nam2\C_Sharp\LabFinal\MyQuizApp\bin\Debug\net10.0\MyQuizApp.runtimeconfig.json
+C:\Study\HK3Nam2\C_Sharp\LabFinal\MyQuizApp\bin\Debug\net10.0\MyQuizApp.dll
+C:\Study\HK3Nam2\C_Sharp\LabFinal\MyQuizApp\bin\Debug\net10.0\MyQuizApp.pdb
+C:\Study\HK3Nam2\C_Sharp\LabFinal\MyQuizApp\obj\Debug\net10.0\MyQuizApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\HK3Nam2\C_Sharp\LabFinal\MyQuizApp\obj\Debug\net10.0\MyQuizApp.AssemblyInfoInputs.cache
+C:\Study\HK3Nam2\C_Sharp\LabFinal\MyQuizApp\obj\Debug\net10.0\MyQuizApp.AssemblyInfo.cs
+C:\Study\HK3Nam2\C_Sharp\LabFinal\MyQuizApp\obj\Debug\net10.0\MyQuizApp.csproj.CoreCompileInputs.cache
+C:\Study\HK3Nam2\C_Sharp\LabFinal\MyQuizApp\obj\Debug\net10.0\MyQuizApp.dll
+C:\Study\HK3Nam2\C_Sharp\LabFinal\MyQuizApp\obj\Debug\net10.0\refint\MyQuizApp.dll
+C:\Study\HK3Nam2\C_Sharp\LabFinal\MyQuizApp\obj\Debug\net10.0\MyQuizApp.pdb
+C:\Study\HK3Nam2\C_Sharp\LabFinal\MyQuizApp\obj\Debug\net10.0\MyQuizApp.genruntimeconfig.cache
+C:\Study\HK3Nam2\C_Sharp\LabFinal\MyQuizApp\obj\Debug\net10.0\ref\MyQuizApp.dll
